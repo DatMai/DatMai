@@ -8,6 +8,10 @@
 </a>
 
 </div>
+<!-- ============================== ACTIVITY ============================== -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DatMai&theme=react-dark&bg_color=0d1117&color=E10600&line=E10600&point=ffffff&hide_border=true&area=true" width="100%" />
+</div>
 
 <!-- ============================== ABOUT ============================== -->
 ## About Me
