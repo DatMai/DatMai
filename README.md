@@ -16,7 +16,7 @@
 <!-- ============================== ABOUT ============================== -->
 ## About Me
 
-5 years of experience building **real-time, safety-critical systems** in the Oil & Gas industry. Worked **onsite in the United States**, collaborating directly with Halliburton engineers and enterprise partners including Aramco, ExxonMobil and Petro Vietnam.
+5 years of experience in **software development**, building **real-time, safety-critical systems** in the Oil & Gas industry. Worked **onsite in the United States**, collaborating directly with Halliburton engineers and enterprise partners including Aramco, ExxonMobil, and PetroVietnam.
 
 ---
 
