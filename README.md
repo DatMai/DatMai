@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E10600,100:000000&height=200&section=header&text=Dat%20Mai%20Huynh%20Phuoc&fontColor=000000&fontSize=42&fontAlignY=38&desc=Senior%20Software%20Engineer&descSize=20&descColor=ffffff&descAlignY=58" width="100%" />
 
 <a href="https://github.com/DatMai">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=900&color=E10600&center=true&vCenter=true&width=700&height=55&lines=Stay+hungry,+stay+foolish;Real-Time+Systems+%7C+Oil+%26+Gas;A+little+Sparrow+fly+into+storm" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=900&color=E10600&center=true&vCenter=true&width=700&height=55&lines=Stay+hungry,+stay+foolish;Real-Time+Systems+%7C+Oil+%26+Gas;A+little+Sparrow+flies+into+the+storm" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,7 +16,7 @@
 <!-- ============================== ABOUT ============================== -->
 ## About Me
 
-5 years of experience in **software development**, building **real-time, safety-critical systems** in the Oil & Gas industry. Worked **onsite in the United States**, collaborating directly with Halliburton engineers and enterprise partners including Aramco, ExxonMobil, and PetroVietnam.
+Senior Software Engineer with **5 years of experience** building **real-time, safety-critical systems** for the Oil & Gas industry. Worked **onsite in the United States**, collaborating directly with Halliburton engineers and enterprise partners including Aramco, ExxonMobil, and PetroVietnam.
 
 ---
 
@@ -86,7 +86,7 @@
 ## Certificates
 
 <div align="center">
-  
+
 | Issuer | Certificates |
 |--------|--------------|
 | **Udacity** | • Data Scientist<br>• Data Engineering with AWS<br>• Data Analyst |
@@ -105,7 +105,6 @@
 [![Email](https://img.shields.io/badge/Email-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phct869@gmail.com)
 [![Website](https://img.shields.io/badge/anhemsoftware.com-000000?style=for-the-badge&logo=googlechrome&logoColor=E10600)](https://anhemsoftware.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=DatMai&color=E10600&style=for-the-badge&label=PROFILE+VIEWS)
-<img width="1536" height="1024" alt="dragon_small" src="https://github.com/user-attachments/assets/b14e7338-f057-4457-8ff4-69f2bbab964a" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E10600,100:000000&height=100&section=footer" width="100%" />
