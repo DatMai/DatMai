@@ -105,6 +105,7 @@
 [![Email](https://img.shields.io/badge/Email-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phct869@gmail.com)
 [![Website](https://img.shields.io/badge/anhemsoftware.com-000000?style=for-the-badge&logo=googlechrome&logoColor=E10600)](https://anhemsoftware.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=DatMai&color=E10600&style=for-the-badge&label=PROFILE+VIEWS)
+<img width="1536" height="1024" alt="dragon_small" src="https://github.com/user-attachments/assets/b14e7338-f057-4457-8ff4-69f2bbab964a" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E10600,100:000000&height=100&section=footer" width="100%" />
