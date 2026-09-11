@@ -68,18 +68,6 @@ Senior Software Engineer with **5 years of experience** building **real-time, sa
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DatMai&hide_border=true&background=0d1117&ring=E10600&fire=E10600&currStreakLabel=E10600&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
 ## Certificates
 
 <div align="center">
