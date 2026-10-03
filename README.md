@@ -19,7 +19,7 @@ Senior Software Engineer with **5 years of experience** building **real-time, sa
 
 ## Experience
 
-### FPT Software &nbsp;·&nbsp; Senior Software Engineer &nbsp;`2021 – Present`
+### FPT Software &nbsp;·&nbsp; Software Engineer &nbsp;`2021 – Present`
 
 **iDOS — Integrated Design of Service** · Halliburton &nbsp;`2024/03 – Present`
 > A digital workflow for collaborative well planning across multiple product service lines, integrated with iEnergy® Cloud and DecisionSpace 365.
