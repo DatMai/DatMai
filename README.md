@@ -13,7 +13,7 @@
 <!-- ============================== ABOUT ============================== -->
 ## About Me
 
-Senior Software Engineer with **5 years of experience** building **real-time, safety-critical systems** for the Oil & Gas industry. Worked **onsite in the United States**, collaborating directly with Halliburton engineers and enterprise partners including Aramco, ExxonMobil, and PetroVietnam.
+Software Engineer with **5 years of experience** building **real-time, safety-critical systems** for the Oil & Gas industry. Worked **onsite in the United States**, collaborating directly with Halliburton engineers and enterprise partners including Aramco, ExxonMobil, and PetroVietnam.
 
 ---
 
