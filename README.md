@@ -1,10 +1,10 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E10600,100:000000&height=200&section=header&text=Dat%20Mai%20Huynh%20Phuoc&fontColor=000000&fontSize=42&fontAlignY=38&desc=Senior%20Software%20Engineer&descSize=20&descColor=ffffff&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E10600,100:000000&height=200&section=header&text=Dat%20Mai%20Huynh%20Phuoc&fontColor=000000&fontSize=42&fontAlignY=38&desc=Software%20Engineer&descSize=20&descColor=ffffff&descAlignY=58" width="100%" />
 
 <a href="https://github.com/DatMai">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=900&color=E10600&center=true&vCenter=true&width=700&height=55&lines=Stay+hungry,+stay+foolish;Real-Time+Systems+%7C+Oil+%26+Gas;A+little+Sparrow+flies+into+the+storm" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=900&color=E10600&center=true&vCenter=true&width=700&height=55&lines=Stay+hungry,+stay+foolish;Real-Time+Systems+%7C+Oil+%26+Gas;" alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,7 +19,7 @@ Senior Software Engineer with **5 years of experience** building **real-time, sa
 
 ## Experience
 
-### FPT Software &nbsp;·&nbsp; Software Engineer &nbsp;`2021 – Present`
+### FPT Software &nbsp;·&nbsp; Senior Software Engineer &nbsp;`2021 – Present`
 
 **iDOS — Integrated Design of Service** · Halliburton &nbsp;`2024/03 – Present`
 > A digital workflow for collaborative well planning across multiple product service lines, integrated with iEnergy® Cloud and DecisionSpace 365.
